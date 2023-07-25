@@ -1,0 +1,60 @@
+.elementor-332 .elementor-element.elementor-element-f1273a7{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-top:7rem;--padding-right:3rem;--padding-bottom:2rem;--padding-left:3rem;}.elementor-332 .elementor-element.elementor-element-f1273a7:not(.elementor-motion-effects-element-type-background), .elementor-332 .elementor-element.elementor-element-f1273a7 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#1A1A1A;}.elementor-332 .elementor-element.elementor-element-f1273a7, .elementor-332 .elementor-element.elementor-element-f1273a7::before{--border-transition:0.3s;}.elementor-332 .elementor-element.elementor-element-2ee0426{text-align:center;}.elementor-332 .elementor-element.elementor-element-2ee0426 .elementor-heading-title{color:var( --e-global-color-f94fdc3 );font-family:"Termina", Sans-serif;font-size:2.3rem;font-weight:300;line-height:1em;}.elementor-332 .elementor-element.elementor-element-9a30294 .elementor-menu-toggle{margin:0 auto;}.elementor-332 .elementor-element.elementor-element-9a30294 .elementor-nav-menu .elementor-item{font-family:"Termina", Sans-serif;font-weight:300;}.elementor-332 .elementor-element.elementor-element-9a30294 .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-f94fdc3 );fill:var( --e-global-color-f94fdc3 );}.elementor-332 .elementor-element.elementor-element-9a30294 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-332 .elementor-element.elementor-element-9a30294 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-332 .elementor-element.elementor-element-9a30294 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-332 .elementor-element.elementor-element-9a30294 .elementor-nav-menu--main .elementor-item:focus{color:#7A7A7A;fill:#7A7A7A;}.elementor-332 .elementor-element.elementor-element-c8e335a .ekit_social_media{text-align:center;}.elementor-332 .elementor-element.elementor-element-c8e335a .elementor-repeater-item-6ce8b9c > a{color:var( --e-global-color-f94fdc3 );background-color:#252525;}.elementor-332 .elementor-element.elementor-element-c8e335a .elementor-repeater-item-6ce8b9c > a svg path{stroke:var( --e-global-color-f94fdc3 );fill:var( --e-global-color-f94fdc3 );}.elementor-332 .elementor-element.elementor-element-c8e335a .elementor-repeater-item-6ce8b9c > a:hover{background-color:#3b5998;}.elementor-332 .elementor-element.elementor-element-c8e335a .ekit_social_media > li > a{text-align:center;text-decoration:none;border-radius:50% 50% 50% 50%;width:40px;height:40px;line-height:35px;}.elementor-332 .elementor-element.elementor-element-c8e335a .ekit_social_media > li{display:inline-block;margin:-15px 25px 25px 25px;}.elementor-332 .elementor-element.elementor-element-c8e335a .ekit_social_media > li > a i{font-size:11px;}.elementor-332 .elementor-element.elementor-element-c8e335a .ekit_social_media > li > a svg{max-width:11px;}.elementor-332 .elementor-element.elementor-element-c8e335a > .elementor-widget-container{margin:1rem 0rem 0rem 0rem;}.elementor-332 .elementor-element.elementor-element-22a7eaa{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-top:0rem;--padding-right:3rem;--padding-bottom:1rem;--padding-left:3rem;}.elementor-332 .elementor-element.elementor-element-22a7eaa:not(.elementor-motion-effects-element-type-background), .elementor-332 .elementor-element.elementor-element-22a7eaa > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#1A1A1A;}.elementor-332 .elementor-element.elementor-element-22a7eaa, .elementor-332 .elementor-element.elementor-element-22a7eaa::before{--border-transition:0.3s;}.elementor-332 .elementor-element.elementor-element-c704052{--divider-border-style:solid;--divider-color:#474747;--divider-border-width:1px;}.elementor-332 .elementor-element.elementor-element-c704052 .elementor-divider-separator{width:100%;}.elementor-332 .elementor-element.elementor-element-c704052 .elementor-divider{padding-top:15px;padding-bottom:15px;}.elementor-332 .elementor-element.elementor-element-8f11f7c{text-align:center;font-family:"Termina", Sans-serif;font-size:15px;font-weight:200;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Termina';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/07/Termina-Thin.woff2') format('woff2'),
+		url('/wp-content/uploads/2023/07/Termina-Thin.woff') format('woff');
+}
+@font-face {
+	font-family: 'Termina';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/07/Termina-Regular.woff2') format('woff2'),
+		url('/wp-content/uploads/2023/07/Termina-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Termina';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/07/Termina-Medium.woff2') format('woff2'),
+		url('/wp-content/uploads/2023/07/Termina-Medium.woff') format('woff');
+}
+@font-face {
+	font-family: 'Termina';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/07/Termina-Heavy.woff2') format('woff2'),
+		url('/wp-content/uploads/2023/07/Termina-Heavy.woff') format('woff');
+}
+@font-face {
+	font-family: 'Termina';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/07/Termina-Demi.woff2') format('woff2'),
+		url('/wp-content/uploads/2023/07/Termina-Demi.woff') format('woff');
+}
+@font-face {
+	font-family: 'Termina';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/07/Termina-Bold.woff2') format('woff2'),
+		url('/wp-content/uploads/2023/07/Termina-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Termina';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/07/Termina-Black.woff2') format('woff2'),
+		url('/wp-content/uploads/2023/07/Termina-Black.woff') format('woff');
+}
+/* End Custom Fonts CSS */
